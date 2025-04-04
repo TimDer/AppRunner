@@ -1,1 +1,1 @@
-dotnet publish ./src/runner/AppRunner.csproj -o ./AppRunnerDist
+dotnet publish ./src/runner/AppRunner.csproj -o ./AppRunnerDist --self-contained
