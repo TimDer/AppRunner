@@ -1,0 +1,10 @@
+[
+    {
+        "Name": "List all files",
+        "CLI": "ls -lash"
+    },
+    {
+        "Name": "Echo test",
+        "CLI": "echo 'hello world'"
+    }
+]
